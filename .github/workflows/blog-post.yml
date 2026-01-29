@@ -15,5 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://pancold-s.tistory.com/rss"
-          request_headers: |
-            User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+          accept_header: "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8"
