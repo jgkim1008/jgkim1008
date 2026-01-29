@@ -92,11 +92,11 @@
  ## Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub와 티스토리 연동하기](https://pancold-s.tistory.com/85)
 - [ShortsUI 구현하기](https://pancold-s.tistory.com/84)
 - [AVAsset 구현시 참고사항](https://pancold-s.tistory.com/83)
 - [n8n으로 일정관리를 도와주는 AI 개인비서 만들기](https://pancold-s.tistory.com/82)
 - [STOMP](https://pancold-s.tistory.com/81)
-- [HTTP 상태 코드에 대해서 설명해주세요.](https://pancold-s.tistory.com/80)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
