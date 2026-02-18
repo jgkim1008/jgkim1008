@@ -84,9 +84,9 @@
 * 📝 [Post my studies steadily on blog](https://pancold-s.tistory.com/)
 
 * ✉️ [Contact through online](rlawnsrjs100.dev@gmail.com)
-
+<!--
 * 🙋🏻‍♂️ [Let me Introduce](https://drive.google.com/file/d/11Nn-8_3kDXwRk2IZVjdU5Z_tF2tntxaC/view?usp=sharing)
-
+-->
 <br/>
 
  ## Latest Blog Posts 📝
